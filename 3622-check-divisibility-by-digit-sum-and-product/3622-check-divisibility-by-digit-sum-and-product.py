@@ -7,6 +7,7 @@ class Solution(object):
         original = n
         digit_sum= 0
         digit_product=1
+        """navneet"""
         while n > 0:
             digit =n %10
             digit_sum=digit_sum+digit
