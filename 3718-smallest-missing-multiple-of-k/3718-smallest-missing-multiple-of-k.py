@@ -9,6 +9,6 @@ class Solution(object):
         for i in range(1,102):
             a=k*i
             if a not in nums:
-                return a
+                return a 
 
         
