@@ -12,5 +12,8 @@ class Solution(object):
             a=a*10+x%10
             x//=10
 
-        return x==a or x==a//10           
+        return x==a or x==a//10    
+        """
+        navneet kumar
+        """
         
