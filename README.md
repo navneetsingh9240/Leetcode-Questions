@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -17,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
