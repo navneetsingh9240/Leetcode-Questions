@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
