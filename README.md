@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Array
 |  |
 | ------- |
@@ -52,8 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+## Greedy
+|  |
+| ------- |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
