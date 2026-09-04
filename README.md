@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
