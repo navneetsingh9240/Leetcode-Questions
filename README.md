@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
+| [0940-distinct-subsequences-ii](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Array
 |  |
@@ -79,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/navneetsingh9240/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
